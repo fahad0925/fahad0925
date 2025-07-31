@@ -137,5 +137,5 @@ Beyond coding, I'm always looking to collaborate with like-minded individuals an
 
 <hr/>
 
-* Credit: [Fahas](https://github.com/fahad0925)
+* Credit: [Fahad](https://github.com/fahad0925)
 * <p> Last Edited on: Wed, july 24, 2024</p>
