@@ -88,7 +88,7 @@ Supports institutions like **FAST**, **NED**, **DOW**, and more!
 
 🟡 **Next:**  
 - Full MERN Deployment  
-- Leaderboard & Analytics for Aptitude App  
+- Leaderboard & Analytics for UNI-TRACK App  
 - Docker + CI/CD basics  
 
 ---
