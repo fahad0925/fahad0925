@@ -1,141 +1,113 @@
-<h1 align="center">Hi , I'm Fahad Hussain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">👋 Hey, I'm Fahad Hussain</h1>
+<h3 align="center">🚀 Front-End Developer | MERN Stack Explorer | Building Real-World Projects</h3>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;front-End+Web+Developer;Software%20Engineer%20Intern;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-<hr/>
-<h4 align="center" >🚀 Hey there! Fahad Hussain, on a mission to conquer the digital world as a future front-end developer! 💻 With HTML,
-  
-  
-  CSS, and JavaScript under my belt, I'm ready to craft captivating user experiences and bring designs to life. 🎨 Creating sleek layouts with CSS, I thrive on problem-solving in JS and turning ideas into reality. 🌟 
-
-I've recently started diving into React basics, adding a powerful tool to my development arsenal. With React, I'm eager to build dynamic and responsive web applications that offer seamless user interactions. The journey of learning React has been exhilarating, and I can't wait to leverage its component-based architecture to create efficient and maintainable code.
-
-Beyond coding, I'm always looking to collaborate with like-minded individuals and explore new technologies that push the boundaries of what's possible on the web. Let's embark on this coding journey together! 🌟
-
-#CodeIsLife #FutureFrontEndDev #ReactRookie
-</h4>
-<br>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=asim925&label=Profile%20views&color=0e75b6&style=plastic" alt="views">
- </p>
-
-## 🔥 Streak Stats
-<p align="center"><img src='https://github-readme-streak-stats.herokuapp.com/?user=fahad0925&theme=radical' alt="streaks"  /></p>
-
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-<p align="left"> 
-  
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank"> 
-     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?logo=typescript&logoColor=black">
-   </a>
-  
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=white">
-   </a>
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Turning+Ideas+Into+Interactive+Experiences;Learning+MERN+Stack+Step+By+Step;Code.+Create.+Repeat." alt="Typing Animation" />
 </p>
 
-### 👉 Frontend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=black"/>
-  </a>
-  &emsp;
-  <a href="https://chakra-ui.com" target="_blank">
-    <img alt="Chakra UI" src="https://img.shields.io/badge/Chakra%20UI-%2334D5E0.svg?style=flat&logo=chakra-ui&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://reactjs.org/" target="_blank">
-    <img alt="React.js" src="https://img.shields.io/badge/React.js-%23282C34.svg?style=flat&logo=react&logoColor=61DAFB"/>
-  </a>
-</p>
+---
 
+<div align="center">
+  <img src="https://github.com/Asim925/Asim925/blob/main/assets/coding.gif" width="320px" alt="Coding animation"/>
+</div>
 
-### 👉 Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-  <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
-  &emsp;
-  <a href="https://vercel.com/"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white"></a>
-</p>
+---
 
-  
- ### 👉 Software & Tools
- 
-<p>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
- 
-</p>
+## 🧩 About Me  
 
-<br/>
+Hey there! I’m **Fahad Hussain**, a passionate **Front-End Developer** diving deep into the **MERN Stack**.  
+I enjoy crafting apps that are **fast**, **interactive**, and **delightful to use** — whether it’s a quiz app, a weather dashboard, or a full-stack learning platform.
 
-## 📊 Github Stats (Expand to View) 
+💬 **A few things that define me:**  
+- 🎯 Curious mind — I love breaking and rebuilding things to learn.  
+- 🧠 Self-taught developer exploring the full MERN journey.  
+- 🚀 Currently revamping my flagship **UNI-TRACK App** into a full-stack experience.  
+- 🧹 Motto: *“If it works — make it cleaner.”*  
 
+---
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="fahad0925's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fahad0925&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-</a>
+## 🧠 Developer Journey  
 
-<br/>
-  &nbsp;
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahad0925&show_icons=true&locale=en&layout=compact&theme=algolia" height="192px"/>
+| Phase | Focus | Status |
+|:------|:------|:------:|
+| 🎨 **Frontend Foundations** | HTML • CSS • JavaScript • Responsive Design | ✅ Mastered |
+| ⚛️ **Modern Frontend** | React • Tailwind • Hooks • APIs | ✅ Strong |
+| ⚙️ **Backend Learning** | Node.js • Express.js • MongoDB | 🚧 In Progress |
+| ☁️ **Next Goals** | Authentication • JWT • Deployment • REST APIs | 🔜 Upcoming |
 
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
+---
 
+## 🚀 Featured Project — Aptitude Test App  
 
-<details>
-  <summary><b>🏆 Achievements and Trophies</b></summary>
-  <br/>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=fahad0925&theme=algolia" alt="Fahad's GitHub Trophies" />
-</a>
+🎯 **[Live Demo](https://uni-track-ekoo.vercel.app/)**  
 
+A dynamic web testing platform for university-style aptitude exams.  
+Supports institutions like **FAST**, **NED**, **DOW**, and more!  
 
-  <br/>
+✨ **Key Highlights:**  
+- 🧩 Timed quizzes with instant scoring  
+- 💬 AI-generated explanations (GPT integration)  
+- 📊 Result analytics and review  
+- 🔐 Upcoming: Authentication, Leaderboard & Saved Scores  
 
-</details>
+> “Building it helped me master React — now, it’s teaching me backend!”
 
-<br/>
+---
 
-## 🙋‍♀️ Let's Connect
+## ⚙️ Tech Stack  
+
 <p align="center">
-  <a href="https://asim925.github.io/My-Web/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:fahadqwerty777@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://fahad0925.github.io/Personal-Exercises/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/fahad-hussain-10b549316/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/itx_calis777/?next=%2F" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/itx_calis777/?next=%2F" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	
-	
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,tailwind,bootstrap,git,github,vscode,linux&theme=dark" />
 </p>
 
-<hr/>
+<p align="center">
+  <img src="https://github.com/fahad0925/fahad0925/blob/main/assets/techstack-animation.gif" width="500px" alt="Tech stack animation"/>
+</p>
 
-* Credit: [Fahad](https://github.com/fahad0925)
-* <p> Last Edited on: Wed, july 24, 2024</p>
+---
+
+## 📊 GitHub Insights  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fahad0925&show_icons=true&theme=radical&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahad0925&theme=radical&hide_border=true" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahad0925&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+## 🧭 Current Learning Roadmap  
+
+🟢 **Now:**  
+- Building REST APIs with Express  
+- Connecting MongoDB Atlas  
+- Authentication & Authorization  
+
+🟡 **Next:**  
+- Full MERN Deployment  
+- Leaderboard & Analytics for Aptitude App  
+- Docker + CI/CD basics  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="mailto:fahadqwerty777@gmail.com"><img src="https://img.icons8.com/clouds/60/gmail-new.png" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/fahad-hussain-618372282/"><img src="https://img.icons8.com/clouds/60/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://github.com/fahad0925"><img src="https://img.icons8.com/clouds/60/github.png" alt="GitHub"/></a>
+  <a href="https://www.instagram.com/itx_calis777/"><img src="https://img.icons8.com/clouds/60/instagram-new.png" alt="Instagram"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF6FD8&center=true&vCenter=true&width=600&lines=✨+Code.+Learn.+Build.+Repeat.+✨" alt="Typing Footer"/>
+</p>
+
+---
+
+<p align="center">✨ Crafted by.” — <b>Fahad/b></p>
