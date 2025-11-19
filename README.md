@@ -110,4 +110,4 @@ Supports institutions like **FAST**, **NED**, **DOW**, and more!
 
 ---
 
-<p align="center">✨ Crafted by.” — <b>Fahad/b></p>
+<p align="center">✨ Crafted by” — <b>Fahad /b></p>
