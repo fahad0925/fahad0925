@@ -93,7 +93,7 @@ Supports institutions like **FAST**, **NED**, **DOW**, and more!
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me.
 
 <p align="center">
   <a href="mailto:fahadqwerty777@gmail.com"><img src="https://img.icons8.com/clouds/60/gmail-new.png" alt="Gmail"/></a>
